@@ -1,0 +1,14 @@
+{
+  "name": "chai-bn-equal",
+  "version": "1.0.0",
+  "description": "Adds a bnEqual method to chai that compares the string version of the BN to a string version of its input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "chai": ">= 2.1.2 < 5"
+  },
+  "author": "t11s",
+  "license": "AGPL-3.0"
+}
