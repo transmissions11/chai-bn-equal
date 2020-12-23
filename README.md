@@ -4,6 +4,10 @@ Adds a `bnEqual` method to chai that compares the string version of the BN to a 
 
 #### Pairs well with `chai-as-promised`!
 
+## Installation:
+
+`npm i --save-dev chai-bn-equal`
+
 ## Example:
 
 ```js
