@@ -1,6 +1,7 @@
 {
   "name": "chai-bn-equal",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "types": "types.d.ts",
   "description": "Adds a bnEqual method to chai that compares the string version of the BN to a string version of its input.",
   "main": "index.js",
   "scripts": {
